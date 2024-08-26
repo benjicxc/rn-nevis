@@ -1,0 +1,1 @@
+{"version":3,"names":["FidoErrorCode","FidoErrorCodeConverter","fromJson","json","type","description"],"sourceRoot":"../../../src","sources":["error/FidoErrorCodeConverter.ts"],"mappings":"AAAA;AACA;AACA;;AAEA,SAASA,aAAa,QAAQ,iBAAiB;AAE/C,OAAO,MAAMC,sBAAsB,CAAC;EACnC,OAAOC,QAAQA,CAACC,IAAS,EAAiB;IACzC,OAAO,IAAIH,aAAa,CAACG,IAAI,CAACC,IAAI,EAAED,IAAI,CAACE,WAAW,CAAC;EACtD;AACD"}

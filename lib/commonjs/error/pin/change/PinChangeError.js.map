@@ -1,0 +1,1 @@
+{"version":3,"names":["_MobileAuthenticationClientError","require","PinChangeError","MobileAuthenticationClientError","exports"],"sourceRoot":"../../../../../src","sources":["error/pin/change/PinChangeError.ts"],"mappings":";;;;;;AAIA,IAAAA,gCAAA,GAAAC,OAAA;AAJA;AACA;AACA;;AAIA;AACA;AACA;AACO,MAAeC,cAAc,SAASC,gEAA+B,CAAC;AAAEC,OAAA,CAAAF,cAAA,GAAAA,cAAA"}

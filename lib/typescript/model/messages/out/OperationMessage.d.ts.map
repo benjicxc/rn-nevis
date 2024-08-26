@@ -1,0 +1,1 @@
+{"version":3,"file":"OperationMessage.d.ts","sourceRoot":"","sources":["../../../../../src/model/messages/out/OperationMessage.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AAEnD;;GAEG;AACH,8BAAsB,gBAAiB,SAAQ,cAAc;IAC5D;;OAEG;IACH,QAAQ,CAAC,iBAAiB,EAAE,OAAO,CAAC;IAEpC;;OAEG;IACH,QAAQ,CAAC,eAAe,EAAE,OAAO,CAAC;CAClC"}

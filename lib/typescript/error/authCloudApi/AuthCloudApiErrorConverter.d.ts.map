@@ -1,0 +1,1 @@
+{"version":3,"file":"AuthCloudApiErrorConverter.d.ts","sourceRoot":"","sources":["../../../../src/error/authCloudApi/AuthCloudApiErrorConverter.ts"],"names":[],"mappings":"AAAA;;GAEG;AAIH,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,qBAAqB,CAAC;AAS7D,OAAO,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AAenD,qBAAa,0BAA2B,SAAQ,cAAc,CAAC,iBAAiB,CAAC;IAChF,OAAO,IAAI,iBAAiB;CA4C5B"}

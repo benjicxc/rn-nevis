@@ -1,0 +1,1 @@
+{"version":3,"file":"ErrorConverter.d.ts","sourceRoot":"","sources":["../../../src/error/ErrorConverter.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAE9C,qBAAa,cAAc,CAAC,CAAC;IAC5B,KAAK,EAAE,YAAY,CAAC;gBAER,KAAK,EAAE,GAAG;IAYtB,OAAO,IAAI,CAAC;CAGZ"}

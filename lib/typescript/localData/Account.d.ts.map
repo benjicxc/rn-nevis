@@ -1,0 +1,1 @@
+{"version":3,"file":"Account.d.ts","sourceRoot":"","sources":["../../../src/localData/Account.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAElC;;;;GAIG;AACH,8BAAsB,OAAO;IAC5B;;;;;;;;;OASG;IACH,QAAQ,CAAC,QAAQ,EAAE,MAAM,CAAC;IAE1B;;OAEG;IACH,QAAQ,CAAC,MAAM,EAAE,MAAM,CAAC;IAExB;;;;;OAKG;IACH,MAAM,CAAC,QAAQ,CAAC,IAAI,EAAE,GAAG,GAAG,OAAO;CAGnC"}

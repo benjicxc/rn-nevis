@@ -1,0 +1,1 @@
+{"version":3,"names":["_ChannelMessage","require","OperationMessage","ChannelMessage","exports"],"sourceRoot":"../../../../../src","sources":["model/messages/out/OperationMessage.ts"],"mappings":";;;;;;AAIA,IAAAA,eAAA,GAAAC,OAAA;AAJA;AACA;AACA;;AAIA;AACA;AACA;AACO,MAAeC,gBAAgB,SAASC,8BAAc,CAAC;AAU7DC,OAAA,CAAAF,gBAAA,GAAAA,gBAAA"}

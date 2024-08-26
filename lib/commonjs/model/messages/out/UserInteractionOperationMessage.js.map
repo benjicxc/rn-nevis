@@ -1,0 +1,1 @@
+{"version":3,"names":["_OperationMessage","require","UserInteractionOperationMessage","OperationMessage","exports"],"sourceRoot":"../../../../../src","sources":["model/messages/out/UserInteractionOperationMessage.ts"],"mappings":";;;;;;AAIA,IAAAA,iBAAA,GAAAC,OAAA;AAJA;AACA;AACA;;AAIA;AACA;AACA;AACO,MAAeC,+BAA+B,SAASC,kCAAgB,CAAC;AAmC9EC,OAAA,CAAAF,+BAAA,GAAAA,+BAAA"}

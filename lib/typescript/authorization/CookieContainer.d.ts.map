@@ -1,0 +1,1 @@
+{"version":3,"file":"CookieContainer.d.ts","sourceRoot":"","sources":["../../../src/authorization/CookieContainer.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH;;GAEG;AACH,qBAAa,eAAe;IAC3B;;OAEG;IACH,GAAG,EAAE,MAAM,CAAC;IAEZ;;OAEG;IACH,UAAU,EAAE,MAAM,CAAC;IAEnB;;;;;OAKG;gBACS,GAAG,EAAE,MAAM,EAAE,UAAU,EAAE,MAAM;IAK3C;;;;;OAKG;IACH,MAAM,CAAC,QAAQ,CAAC,IAAI,EAAE,GAAG,GAAG,eAAe;CAG3C"}

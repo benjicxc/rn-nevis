@@ -1,0 +1,1 @@
+{"version":3,"file":"AuthenticationErrorConverter.d.ts","sourceRoot":"","sources":["../../../../src/error/authentication/AuthenticationErrorConverter.ts"],"names":[],"mappings":"AAAA;;GAEG;AAGH,OAAO,KAAK,EAAE,mBAAmB,EAAE,MAAM,uBAAuB,CAAC;AAKjE,OAAO,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AAUnD,qBAAa,4BAA6B,SAAQ,cAAc,CAAC,mBAAmB,CAAC;IACpF,OAAO,IAAI,mBAAmB;CA8C9B"}

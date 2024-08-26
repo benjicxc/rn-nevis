@@ -1,0 +1,1 @@
+{"version":3,"names":["MobileAuthenticationClientError","DeviceInformationChangeError"],"sourceRoot":"../../../../src","sources":["error/deviceInformationChange/DeviceInformationChangeError.ts"],"mappings":"AAAA;AACA;AACA;;AAEA,SAASA,+BAA+B,QAAQ,oCAAoC;;AAEpF;AACA;AACA;AACA,OAAO,MAAeC,4BAA4B,SAASD,+BAA+B,CAAC"}

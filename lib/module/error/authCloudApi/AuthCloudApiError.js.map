@@ -1,0 +1,1 @@
+{"version":3,"names":["MobileAuthenticationClientError","AuthCloudApiError"],"sourceRoot":"../../../../src","sources":["error/authCloudApi/AuthCloudApiError.ts"],"mappings":"AAAA;AACA;AACA;;AAEA,SAASA,+BAA+B,QAAQ,oCAAoC;;AAEpF;AACA;AACA;AACA,OAAO,MAAeC,iBAAiB,SAASD,+BAA+B,CAAC"}

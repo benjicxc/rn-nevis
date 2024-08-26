@@ -1,0 +1,1 @@
+{"version":3,"file":"AuthenticatorExtension.d.ts","sourceRoot":"","sources":["../../../src/extensions/AuthenticatorExtension.ts"],"names":[],"mappings":"AAAA;;GAEG;AAOH,OAAO,EAAE,uBAAuB,EAAE,MAAM,wDAAwD,CAAC;AAEjG,qBAAa,sBAAsB;IAClC,MAAM,CAAC,sBAAsB,CAAC,IAAI,EAAE,MAAM,EAAE,WAAW,EAAE,MAAM,GAAG,uBAAuB;CAczF"}

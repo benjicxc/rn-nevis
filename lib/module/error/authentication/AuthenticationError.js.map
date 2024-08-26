@@ -1,0 +1,1 @@
+{"version":3,"names":["MobileAuthenticationClientError","AuthenticationError"],"sourceRoot":"../../../../src","sources":["error/authentication/AuthenticationError.ts"],"mappings":"AAAA;AACA;AACA;;AAGA,SAASA,+BAA+B,QAAQ,oCAAoC;;AAEpF;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA,OAAO,MAAeC,mBAAmB,SAASD,+BAA+B,CAAC"}
