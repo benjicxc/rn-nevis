@@ -102,10 +102,11 @@ def kotlin_version = getExtOrDefault("kotlinVersion")
 
 dependencies {
 	//noinspection GradleDynamicVersion
-	debugCompileOnly 'ch.nevis:nevis-mobile-authentication-sdk-android-debug:3.5.+'
+	// debugCompileOnly 'ch.nevis:nevis-mobile-authentication-sdk-android-debug:3.5.+'
 	//noinspection GradleDynamicVersion
-	releaseCompileOnly 'ch.nevis:nevis-mobile-authentication-sdk-android:3.5.+'
+	// releaseCompileOnly 'ch.nevis:nevis-mobile-authentication-sdk-android:3.5.+'
 
+	implementation 'ch.nevis:nevis-mobile-authentication-sdk-android-debug:3.5.+'
 	// For < 0.71, this will be from the local maven repo
 	// For > 0.71, this will be replaced by `com.facebook.react:react-android:$version` by react gradle plugin
 	//noinspection GradleDynamicVersion
